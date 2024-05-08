@@ -1,0 +1,60 @@
+{
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Fira Code'",
+
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 44,
+  "git.confirmSync": false,
+  "emmet.triggerExpansionOnTab": true,
+  "blade.format.enable": true,
+  "[blade]": {
+    "editor.autoClosingBrackets": "always",
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.sendKeybindingsToShell": true,
+  "editor.renderControlCharacters": true,
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true,
+    "suppressImproperWorkspaceCasingWarning": false
+  },
+  "editor.accessibilitySupport": "off",
+  "editor.renderWhitespace": "all",
+  "json.maxItemsComputed": 50000,
+  "gitlens.views.searchAndCompare.avatars": false,
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.enabled": false,
+  "html.format.wrapLineLength": 0,
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.maxMemoryForLargeFilesMB": 999999999,
+  "redhat.telemetry.enabled": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "window.zoomLevel": 1,
+  "explorer.confirmDragAndDrop": false,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "html.format.templating": true,
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.tabCompletion": "on",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.renderSideBySide": false,
+  "terminal.integrated.fontFamily": "'Fira Code'",
+  "terminal.integrated.fontSize": 16,
+  "explorer.confirmDelete": false,
+  "editor.linkedEditing": true,
+  "workbench.activityBar.location": "hidden"
+}
